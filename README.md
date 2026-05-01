@@ -1,6 +1,6 @@
 # 🐚 Scripts Bash — Ejercicios de clase
 
-Colección de scripts de **Bash** desarrollados durante las clases de **Fundamentos de Programación** (1º DAM · Ucademy · Curso 2025/2026).
+Colección de scripts de **Bash** desarrollados durante las clases de **Fundamentos de Programación**.
 
 ---
 
@@ -94,4 +94,4 @@ chmod +x nombre_script.sh
 
 ## 🎓 Contexto académico
 
-> Ejercicios de clase de **Fundamentos de Programación** · 1º DAM · Ucademy · 2025/2026
+> Ejercicios de clase de **Fundamentos de Programación** · 1º DAM · 2025/2026
